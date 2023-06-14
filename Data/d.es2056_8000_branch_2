@@ -1,0 +1,1540 @@
+
+   1     1         Eigenvalues  :   Stable:  19
+   1     1         Eigenvalue  1:  -3.73607E-04   0.00000E+00
+   1     1         Eigenvalue  2:  -2.66301E-02   0.00000E+00
+   1     1         Eigenvalue  3:  -2.66342E-02   0.00000E+00
+   1     1         Eigenvalue  4:  -2.78332E-02   0.00000E+00
+   1     1         Eigenvalue  5:  -8.64099E-02   0.00000E+00
+   1     1         Eigenvalue  6:  -1.36599E-01   0.00000E+00
+   1     1         Eigenvalue  7:  -1.88340E+00   0.00000E+00
+   1     1         Eigenvalue  8:  -1.88424E+00   0.00000E+00
+   1     1         Eigenvalue  9:  -2.15693E+00   0.00000E+00
+   1     1         Eigenvalue 10:  -2.36250E+00   0.00000E+00
+   1     1         Eigenvalue 11:  -3.85121E+00   0.00000E+00
+   1     1         Eigenvalue 12:  -5.34116E+00   0.00000E+00
+   1     1         Eigenvalue 13:  -5.34987E+00   0.00000E+00
+   1     1         Eigenvalue 14:  -5.35036E+00   0.00000E+00
+   1     1         Eigenvalue 15:  -6.19580E+00   0.00000E+00
+   1     1         Eigenvalue 16:  -2.25176E+01   0.00000E+00
+   1     1         Eigenvalue 17:  -2.30482E+01   0.00000E+00
+   1     1         Eigenvalue 18:  -2.30482E+01   0.00000E+00
+   1     1         Eigenvalue 19:  -2.36372E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1    -1       12   7.50000E-01   4.60719E+01   9.87676E-01   1.01483E+00   7.46201E-01   1.02466E+00   1.75107E+00   1.24658E+01   1.26197E+01   1.26061E+01   1.26861E+01   1.92704E+01   1.92227E+01   1.92662E+01   1.92196E+01   1.14553E-03   8.44295E-04   1.09528E-03   8.07256E-04   9.33523E-05   3.23482E-04
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0        2.89156E-01   4.62497E+01
+   1     2   1        2.89705E-01   4.62512E+01
+
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0       -1.70589E-01   4.64308E+01
+   1     2   1        8.76686E-02   4.71157E+01
+   1     2   2        8.01566E+00   4.91348E+01
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 1.0819E-304 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 1.0819E-304 in GE
+   1     2   3                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     2   4                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     2   5                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     2   6                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     2   7                NaN           NaN
+
+   1     1         Iterations   :   7
+   1     1         Next Step    :  -2.55000E-01
+   1     1 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     2   0        5.95580E-02   4.63409E+01
+   1     2   1        5.99827E-02   4.63421E+01
+
+
+   1     2         Eigenvalues  :   Stable:  19
+   1     2         Eigenvalue  1:  -3.68644E-04   0.00000E+00
+   1     2         Eigenvalue  2:  -2.66301E-02   0.00000E+00
+   1     2         Eigenvalue  3:  -2.66341E-02   0.00000E+00
+   1     2         Eigenvalue  4:  -2.79685E-02   0.00000E+00
+   1     2         Eigenvalue  5:  -8.64099E-02   0.00000E+00
+   1     2         Eigenvalue  6:  -1.36599E-01   0.00000E+00
+   1     2         Eigenvalue  7:  -1.88340E+00   0.00000E+00
+   1     2         Eigenvalue  8:  -1.88433E+00   0.00000E+00
+   1     2         Eigenvalue  9:  -2.14936E+00   0.00000E+00
+   1     2         Eigenvalue 10:  -2.36250E+00   0.00000E+00
+   1     2         Eigenvalue 11:  -3.83116E+00   0.00000E+00
+   1     2         Eigenvalue 12:  -5.34116E+00   0.00000E+00
+   1     2         Eigenvalue 13:  -5.34991E+00   0.00000E+00
+   1     2         Eigenvalue 14:  -5.35036E+00   0.00000E+00
+   1     2         Eigenvalue 15:  -6.24485E+00   0.00000E+00
+   1     2         Eigenvalue 16:  -2.25176E+01   0.00000E+00
+   1     2         Eigenvalue 17:  -2.30482E+01   0.00000E+00
+   1     2         Eigenvalue 18:  -2.30482E+01   0.00000E+00
+   1     2         Eigenvalue 19:  -2.36206E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1    -2       13   5.99827E-02   4.63421E+01   1.02105E+00   9.84179E-01   9.17579E-01   9.70830E-01   1.75107E+00   1.25189E+01   1.26894E+01   1.26375E+01   1.27608E+01   1.93934E+01   1.93457E+01   1.93892E+01   1.93426E+01   1.14553E-03   8.44295E-04   1.09528E-03   8.07256E-04   9.33523E-05   3.25328E-04
+
+   1     1         Iterations   :   1
+   1     1         Next Step    :  -5.10000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     3   0       -3.99463E-01   4.65242E+01
+   1     3   1        4.01417E-01   4.85462E+01
+   1     3   2        6.25826E-01   2.44466E+02
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.9186E-306 in GE
+   1     3   3                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   4                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   5                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   6                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   7                NaN           NaN
+
+   1     2         Iterations   :   7
+   1     2         Next Step    :  -2.55000E-01
+   1     2 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     3   0       -1.69740E-01   4.64331E+01
+   1     3   1        8.80942E-02   4.71068E+01
+   1     3   2        7.72755E+00   4.67694E+01
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 1.0830E-304 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 1.0830E-304 in GE
+   1     3   3                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   4                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   5                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   6                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     3   7                NaN           NaN
+
+   1     2         Iterations   :   7
+   1     2         Next Step    :  -1.27500E-01
+   1     2 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     3   0       -5.48786E-02   4.63876E+01
+   1     3   1       -3.70830E-02   4.64328E+01
+   1     3   2       -4.50656E-02   4.64121E+01
+   1     3   3       -4.51554E-02   4.64081E+01
+
+
+   1     3         Eigenvalues  :   Stable:  18
+   1     3         Eigenvalue  1:   1.92627E+02   0.00000E+00
+   1     3         Eigenvalue  2:  -3.91423E-04   0.00000E+00
+   1     3         Eigenvalue  3:  -2.37086E-02   0.00000E+00
+   1     3         Eigenvalue  4:  -2.66374E-02   0.00000E+00
+   1     3         Eigenvalue  5:  -2.72240E-02   0.00000E+00
+   1     3         Eigenvalue  6:  -8.61119E-02   0.00000E+00
+   1     3         Eigenvalue  7:  -3.40641E-01   0.00000E+00
+   1     3         Eigenvalue  8:  -1.21080E+00   0.00000E+00
+   1     3         Eigenvalue  9:  -1.88355E+00   0.00000E+00
+   1     3         Eigenvalue 10:  -2.13276E+00   0.00000E+00
+   1     3         Eigenvalue 11:  -2.36051E+00   0.00000E+00
+   1     3         Eigenvalue 12:  -3.81968E+00   0.00000E+00
+   1     3         Eigenvalue 13:  -5.34597E+00   0.00000E+00
+   1     3         Eigenvalue 14:  -5.35514E+00   0.00000E+00
+   1     3         Eigenvalue 15:  -6.25620E+00   0.00000E+00
+   1     3         Eigenvalue 16:  -2.25172E+01   0.00000E+00
+   1     3         Eigenvalue 17:  -2.30479E+01   0.00000E+00
+   1     3         Eigenvalue 18:  -2.36184E+01   0.00000E+00
+   1     3         Eigenvalue 19:  -2.38333E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     3       14  -4.51554E-02   4.64081E+01   1.02620E+00   9.79553E-01   9.43840E-01   9.62670E-01   1.75080E+00   1.25330E+01   1.27059E+01   1.26481E+01   1.27782E+01   1.94231E+01   1.93754E+01   1.94189E+01   1.93723E+01   1.14530E-03   8.44032E-04   1.09506E-03   8.07005E-04   9.33192E-05   3.25776E-04
+
+   1     2         Iterations   :   3
+   1     2         Next Step    :  -1.40250E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     4   0       -1.60807E-01   4.64807E+01
+   1     4   1        1.10034E-01   4.69224E+01
+   1     4   2       -1.54707E+03   6.61875E+02
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 2.3669E-300 in GE
+   1     4   3                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     4   4                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     4   5                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     4   6                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     4   7                NaN           NaN
+
+   1     3         Iterations   :   7
+   1     3         Next Step    :  -7.01250E-02
+   1     3 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     4   0       -1.02981E-01   4.64444E+01
+   1     4   1        3.29867E-02   4.66641E+01
+   1     4   2       -8.94513E-01   4.68104E+01
+   1     4   3       -3.15412E-01   4.69450E+01
+   1     4   4        8.29077E+00   5.18325E+01
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 1.0275E-304 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 1.0275E-304 in GE
+   1     4   5                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     4   6                NaN           NaN
+         NOTE:Pivot   1 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   2 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   3 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   4 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   5 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   6 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   7 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   8 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot   9 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  10 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  11 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  12 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  13 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  14 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  15 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  16 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  17 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  18 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+         NOTE:Pivot  19 = 0.0000E+000 <= ||A||_max/1.7977E+308 = 0.0000E+000 in GE
+   1     4   7                NaN           NaN
+
+   1     3         Iterations   :   7
+   1     3         Next Step    :  -3.50625E-02
+   1     3 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     4   0       -7.40684E-02   4.64262E+01
+   1     4   1       -1.17161E-02   4.65267E+01
+   1     4   2       -6.97337E-01   4.66555E+01
+   1     4   3        1.28102E-01   4.78485E+01
+   1     4   4        6.04624E-03   4.71454E+01
+   1     4   5       -3.99988E-02   4.67845E+01
+   1     4   6       -4.23672E-02   4.65979E+01
+
+
+   1     4         Eigenvalues  :   Stable:  18
+   1     4         Eigenvalue  1:   2.05724E+02   0.00000E+00
+   1     4         Eigenvalue  2:  -3.88540E-04   0.00000E+00
+   1     4         Eigenvalue  3:  -2.36803E-02   0.00000E+00
+   1     4         Eigenvalue  4:  -2.66353E-02   0.00000E+00
+   1     4         Eigenvalue  5:  -2.71971E-02   0.00000E+00
+   1     4         Eigenvalue  6:  -8.63065E-02   0.00000E+00
+   1     4         Eigenvalue  7:  -3.45385E-01   0.00000E+00
+   1     4         Eigenvalue  8:  -1.19219E+00   0.00000E+00
+   1     4         Eigenvalue  9:  -1.87823E+00   0.00000E+00
+   1     4         Eigenvalue 10:  -2.12805E+00   0.00000E+00
+   1     4         Eigenvalue 11:  -2.35522E+00   0.00000E+00
+   1     4         Eigenvalue 12:  -3.81646E+00   0.00000E+00
+   1     4         Eigenvalue 13:  -5.38389E+00   0.00000E+00
+   1     4         Eigenvalue 14:  -5.39307E+00   0.00000E+00
+   1     4         Eigenvalue 15:  -6.28832E+00   0.00000E+00
+   1     4         Eigenvalue 16:  -2.25145E+01   0.00000E+00
+   1     4         Eigenvalue 17:  -2.30454E+01   0.00000E+00
+   1     4         Eigenvalue 18:  -2.36130E+01   0.00000E+00
+   1     4         Eigenvalue 19:  -2.38351E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     4       15  -4.23672E-02   4.65979E+01   1.02661E+00   9.80022E-01   9.44324E-01   9.63220E-01   1.74872E+00   1.25785E+01   1.27518E+01   1.26925E+01   1.28239E+01   1.95070E+01   1.94593E+01   1.95028E+01   1.94562E+01   1.14351E-03   8.41956E-04   1.09334E-03   8.05020E-04   9.30572E-05   3.27049E-04
+
+   1     3         Iterations   :   6
+   1     3         Next Step    :  -3.50625E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     5   0       -3.95790E-02   4.67877E+01
+   1     5   1       -4.09710E-02   4.66960E+01
+
+
+   1     5         Eigenvalues  :   Stable:  18
+   1     5         Eigenvalue  1:   2.05325E+02   0.00000E+00
+   1     5         Eigenvalue  2:  -3.87051E-04   0.00000E+00
+   1     5         Eigenvalue  3:  -2.36627E-02   0.00000E+00
+   1     5         Eigenvalue  4:  -2.66356E-02   0.00000E+00
+   1     5         Eigenvalue  5:  -2.71877E-02   0.00000E+00
+   1     5         Eigenvalue  6:  -8.64068E-02   0.00000E+00
+   1     5         Eigenvalue  7:  -3.48255E-01   0.00000E+00
+   1     5         Eigenvalue  8:  -1.18202E+00   0.00000E+00
+   1     5         Eigenvalue  9:  -1.87555E+00   0.00000E+00
+   1     5         Eigenvalue 10:  -2.12566E+00   0.00000E+00
+   1     5         Eigenvalue 11:  -2.35255E+00   0.00000E+00
+   1     5         Eigenvalue 12:  -3.81481E+00   0.00000E+00
+   1     5         Eigenvalue 13:  -5.40309E+00   0.00000E+00
+   1     5         Eigenvalue 14:  -5.41229E+00   0.00000E+00
+   1     5         Eigenvalue 15:  -6.30459E+00   0.00000E+00
+   1     5         Eigenvalue 16:  -2.25131E+01   0.00000E+00
+   1     5         Eigenvalue 17:  -2.30441E+01   0.00000E+00
+   1     5         Eigenvalue 18:  -2.36102E+01   0.00000E+00
+   1     5         Eigenvalue 19:  -2.38338E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     5       16  -4.09710E-02   4.66960E+01   1.02681E+00   9.80258E-01   9.44567E-01   9.63497E-01   1.74767E+00   1.26020E+01   1.27755E+01   1.27156E+01   1.28476E+01   1.95503E+01   1.95027E+01   1.95462E+01   1.94995E+01   1.14260E-03   8.40908E-04   1.09248E-03   8.04018E-04   9.29247E-05   3.27712E-04
+
+   1     4         Iterations   :   1
+   1     4         Next Step    :  -7.01250E-02
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     6   0       -3.81784E-02   4.68922E+01
+   1     6   1       -3.94004E-02   4.68065E+01
+
+
+   1     6         Eigenvalues  :   Stable:  18
+   1     6         Eigenvalue  1:   2.04878E+02   0.00000E+00
+   1     6         Eigenvalue  2:  -3.85409E-04   0.00000E+00
+   1     6         Eigenvalue  3:  -2.36422E-02   0.00000E+00
+   1     6         Eigenvalue  4:  -2.66347E-02   0.00000E+00
+   1     6         Eigenvalue  5:  -2.71759E-02   0.00000E+00
+   1     6         Eigenvalue  6:  -8.65186E-02   0.00000E+00
+   1     6         Eigenvalue  7:  -3.51568E-01   0.00000E+00
+   1     6         Eigenvalue  8:  -1.17049E+00   0.00000E+00
+   1     6         Eigenvalue  9:  -1.87254E+00   0.00000E+00
+   1     6         Eigenvalue 10:  -2.12297E+00   0.00000E+00
+   1     6         Eigenvalue 11:  -2.34954E+00   0.00000E+00
+   1     6         Eigenvalue 12:  -3.81296E+00   0.00000E+00
+   1     6         Eigenvalue 13:  -5.42461E+00   0.00000E+00
+   1     6         Eigenvalue 14:  -5.43382E+00   0.00000E+00
+   1     6         Eigenvalue 15:  -6.32283E+00   0.00000E+00
+   1     6         Eigenvalue 16:  -2.25116E+01   0.00000E+00
+   1     6         Eigenvalue 17:  -2.30427E+01   0.00000E+00
+   1     6         Eigenvalue 18:  -2.36072E+01   0.00000E+00
+   1     6         Eigenvalue 19:  -2.38323E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     6       17  -3.94004E-02   4.68065E+01   1.02704E+00   9.80527E-01   9.44843E-01   9.63811E-01   1.74649E+00   1.26285E+01   1.28022E+01   1.27415E+01   1.28742E+01   1.95992E+01   1.95515E+01   1.95951E+01   1.95484E+01   1.14158E-03   8.39730E-04   1.09150E-03   8.02892E-04   9.27757E-05   3.28454E-04
+
+   1     5         Iterations   :   1
+   1     5         Next Step    :  -1.40250E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     7   0       -3.62593E-02   4.70276E+01
+   1     7   1       -3.72322E-02   4.69611E+01
+
+
+   1     7         Eigenvalues  :   Stable:  18
+   1     7         Eigenvalue  1:   2.04259E+02   0.00000E+00
+   1     7         Eigenvalue  2:  -3.83137E-04   0.00000E+00
+   1     7         Eigenvalue  3:  -2.36138E-02   0.00000E+00
+   1     7         Eigenvalue  4:  -2.66336E-02   0.00000E+00
+   1     7         Eigenvalue  5:  -2.71594E-02   0.00000E+00
+   1     7         Eigenvalue  6:  -8.66737E-02   0.00000E+00
+   1     7         Eigenvalue  7:  -3.56322E-01   0.00000E+00
+   1     7         Eigenvalue  8:  -1.15434E+00   0.00000E+00
+   1     7         Eigenvalue  9:  -1.86837E+00   0.00000E+00
+   1     7         Eigenvalue 10:  -2.11923E+00   0.00000E+00
+   1     7         Eigenvalue 11:  -2.34539E+00   0.00000E+00
+   1     7         Eigenvalue 12:  -3.81037E+00   0.00000E+00
+   1     7         Eigenvalue 13:  -5.45437E+00   0.00000E+00
+   1     7         Eigenvalue 14:  -5.46359E+00   0.00000E+00
+   1     7         Eigenvalue 15:  -6.34807E+00   0.00000E+00
+   1     7         Eigenvalue 16:  -2.25095E+01   0.00000E+00
+   1     7         Eigenvalue 17:  -2.30407E+01   0.00000E+00
+   1     7         Eigenvalue 18:  -2.36029E+01   0.00000E+00
+   1     7         Eigenvalue 19:  -2.38303E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     7       18  -3.72322E-02   4.69611E+01   1.02736E+00   9.80900E-01   9.45227E-01   9.64248E-01   1.74486E+00   1.26656E+01   1.28396E+01   1.27777E+01   1.29115E+01   1.96675E+01   1.96198E+01   1.96634E+01   1.96167E+01   1.14017E-03   8.38100E-04   1.09015E-03   8.01333E-04   9.25693E-05   3.29493E-04
+
+   1     6         Iterations   :   1
+   1     6         Next Step    :  -2.80500E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     8   0       -3.28958E-02   4.72702E+01
+   1     8   1       -3.33767E-02   4.72416E+01
+
+
+   1     8         Eigenvalues  :   Stable:  18
+   1     8         Eigenvalue  1:   2.03157E+02   0.00000E+00
+   1     8         Eigenvalue  2:  -3.79085E-04   0.00000E+00
+   1     8         Eigenvalue  3:  -2.35632E-02   0.00000E+00
+   1     8         Eigenvalue  4:  -2.66318E-02   0.00000E+00
+   1     8         Eigenvalue  5:  -2.71292E-02   0.00000E+00
+   1     8         Eigenvalue  6:  -8.69518E-02   0.00000E+00
+   1     8         Eigenvalue  7:  -3.65345E-01   0.00000E+00
+   1     8         Eigenvalue  8:  -1.12490E+00   0.00000E+00
+   1     8         Eigenvalue  9:  -1.86093E+00   0.00000E+00
+   1     8         Eigenvalue 10:  -2.11254E+00   0.00000E+00
+   1     8         Eigenvalue 11:  -2.33798E+00   0.00000E+00
+   1     8         Eigenvalue 12:  -3.80573E+00   0.00000E+00
+   1     8         Eigenvalue 13:  -5.50744E+00   0.00000E+00
+   1     8         Eigenvalue 14:  -5.51668E+00   0.00000E+00
+   1     8         Eigenvalue 15:  -6.39314E+00   0.00000E+00
+   1     8         Eigenvalue 16:  -2.25057E+01   0.00000E+00
+   1     8         Eigenvalue 17:  -2.30372E+01   0.00000E+00
+   1     8         Eigenvalue 18:  -2.35953E+01   0.00000E+00
+   1     8         Eigenvalue 19:  -2.38268E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     8       19  -3.33767E-02   4.72416E+01   1.02793E+00   9.81570E-01   9.45918E-01   9.65031E-01   1.74195E+00   1.27329E+01   1.29074E+01   1.28436E+01   1.29791E+01   1.97914E+01   1.97437E+01   1.97873E+01   1.97406E+01   1.13766E-03   8.35188E-04   1.08775E-03   7.98549E-04   9.22002E-05   3.31377E-04
+
+   1     7         Iterations   :   1
+   1     7         Next Step    :  -5.61000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1     9   0       -2.56656E-02   4.78027E+01
+   1     9   1       -2.59906E-02   4.77998E+01
+
+
+   1     9         Eigenvalues  :   Stable:  18
+   1     9         Eigenvalue  1:   2.01034E+02   0.00000E+00
+   1     9         Eigenvalue  2:  -3.71286E-04   0.00000E+00
+   1     9         Eigenvalue  3:  -2.34658E-02   0.00000E+00
+   1     9         Eigenvalue  4:  -2.66290E-02   0.00000E+00
+   1     9         Eigenvalue  5:  -2.70682E-02   0.00000E+00
+   1     9         Eigenvalue  6:  -8.74927E-02   0.00000E+00
+   1     9         Eigenvalue  7:  -3.85108E-01   0.00000E+00
+   1     9         Eigenvalue  8:  -1.06547E+00   0.00000E+00
+   1     9         Eigenvalue  9:  -1.84659E+00   0.00000E+00
+   1     9         Eigenvalue 10:  -2.09950E+00   0.00000E+00
+   1     9         Eigenvalue 11:  -2.32369E+00   0.00000E+00
+   1     9         Eigenvalue 12:  -3.79664E+00   0.00000E+00
+   1     9         Eigenvalue 13:  -5.60965E+00   0.00000E+00
+   1     9         Eigenvalue 14:  -5.61894E+00   0.00000E+00
+   1     9         Eigenvalue 15:  -6.48009E+00   0.00000E+00
+   1     9         Eigenvalue 16:  -2.24986E+01   0.00000E+00
+   1     9         Eigenvalue 17:  -2.30306E+01   0.00000E+00
+   1     9         Eigenvalue 18:  -2.35807E+01   0.00000E+00
+   1     9         Eigenvalue 19:  -2.38200E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1     9       20  -2.59906E-02   4.77998E+01   1.02905E+00   9.82882E-01   9.47268E-01   9.66561E-01   1.73635E+00   1.28668E+01   1.30422E+01   1.29748E+01   1.31136E+01   2.00380E+01   1.99903E+01   2.00339E+01   1.99872E+01   1.13280E-03   8.29566E-04   1.08311E-03   7.93174E-04   9.14853E-05   3.35125E-04
+
+   1     8         Iterations   :   1
+   1     8         Next Step    :  -1.12200E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    10   0       -1.12184E-02   4.89163E+01
+   1    10   1       -1.22379E-02   4.89163E+01
+
+
+   1    10         Eigenvalues  :   Stable:  18
+   1    10         Eigenvalue  1:   1.97046E+02   0.00000E+00
+   1    10         Eigenvalue  2:  -3.56622E-04   0.00000E+00
+   1    10         Eigenvalue  3:  -2.32839E-02   0.00000E+00
+   1    10         Eigenvalue  4:  -2.66270E-02   0.00000E+00
+   1    10         Eigenvalue  5:  -2.69440E-02   0.00000E+00
+   1    10         Eigenvalue  6:  -8.85303E-02   0.00000E+00
+   1    10         Eigenvalue  7:  -4.35674E-01   0.00000E+00
+   1    10         Eigenvalue  8:  -9.38927E-01   0.00000E+00
+   1    10         Eigenvalue  9:  -1.81956E+00   0.00000E+00
+   1    10         Eigenvalue 10:  -2.07450E+00   0.00000E+00
+   1    10         Eigenvalue 11:  -2.29676E+00   0.00000E+00
+   1    10         Eigenvalue 12:  -3.77911E+00   0.00000E+00
+   1    10         Eigenvalue 13:  -5.80203E+00   0.00000E+00
+   1    10         Eigenvalue 14:  -5.81140E+00   0.00000E+00
+   1    10         Eigenvalue 15:  -6.64427E+00   0.00000E+00
+   1    10         Eigenvalue 16:  -2.24853E+01   0.00000E+00
+   1    10         Eigenvalue 17:  -2.30183E+01   0.00000E+00
+   1    10         Eigenvalue 18:  -2.35533E+01   0.00000E+00
+   1    10         Eigenvalue 19:  -2.38076E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1    10       21  -1.22379E-02   4.89163E+01   1.03123E+00   9.85422E-01   9.49883E-01   9.69510E-01   1.72581E+00   1.31345E+01   1.33117E+01   1.32377E+01   1.33825E+01   2.05312E+01   2.04834E+01   2.05271E+01   2.04804E+01   1.12363E-03   8.18931E-04   1.07434E-03   7.83005E-04   9.01254E-05   3.42615E-04
+
+   1     9         Iterations   :   1
+   1     9         Next Step    :  -2.24400E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    11   0        1.52676E-02   5.11502E+01
+   1    11   1       -5.36141E-03   5.11457E+01
+   1    11   2        1.24449E-02   5.11512E+01
+   1    11   3       -5.45175E-03   5.11451E+01
+   1    11   4        1.25130E-02   5.11514E+01
+   1    11   5       -5.45301E-03   5.11451E+01
+   1    11   6        1.25122E-02   5.11514E+01
+   1    11   7       -5.45303E-03   5.11451E+01
+
+   1    10         Iterations   :   7
+   1    10         Next Step    :  -1.12200E+00
+   1    10 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    11   0        1.51487E-03   5.00331E+01
+   1    11   1       -2.16255E-03   5.00321E+01
+
+
+   1    11         Eigenvalues  :   Stable:  18
+   1    11         Eigenvalue  1:   1.93960E+02   0.00000E+00
+   1    11         Eigenvalue  2:  -3.40023E-04   0.00000E+00
+   1    11         Eigenvalue  3:  -2.31526E-02   0.00000E+00
+   1    11         Eigenvalue  4:  -2.66264E-02   0.00000E+00
+   1    11         Eigenvalue  5:  -2.68426E-02   0.00000E+00
+   1    11         Eigenvalue  6:  -8.92891E-02   0.00000E+00
+   1    11         Eigenvalue  7:  -4.96927E-01   0.00000E+00
+   1    11         Eigenvalue  8:  -8.21190E-01   0.00000E+00
+   1    11         Eigenvalue  9:  -1.80016E+00   0.00000E+00
+   1    11         Eigenvalue 10:  -2.05355E+00   0.00000E+00
+   1    11         Eigenvalue 11:  -2.27742E+00   0.00000E+00
+   1    11         Eigenvalue 12:  -3.76001E+00   0.00000E+00
+   1    11         Eigenvalue 13:  -5.93974E+00   0.00000E+00
+   1    11         Eigenvalue 14:  -5.94916E+00   0.00000E+00
+   1    11         Eigenvalue 15:  -6.75318E+00   0.00000E+00
+   1    11         Eigenvalue 16:  -2.24760E+01   0.00000E+00
+   1    11         Eigenvalue 17:  -2.30098E+01   0.00000E+00
+   1    11         Eigenvalue 18:  -2.35274E+01   0.00000E+00
+   1    11         Eigenvalue 19:  -2.37999E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1    11       22  -2.16255E-03   5.00321E+01   1.03299E+00   9.87539E-01   9.52054E-01   9.71971E-01   1.71825E+00   1.33966E+01   1.35727E+01   1.34953E+01   1.36422E+01   2.10283E+01   2.09805E+01   2.10243E+01   2.09774E+01   1.11330E-03   8.05961E-04   1.06446E-03   7.69496E-04   8.82030E-05   3.50170E-04
+
+   1    10         Iterations   :   1
+   1    10         Next Step    :  -2.24400E+00
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    12   0        1.79880E-02   5.22643E+01
+   1    12   1       -8.45465E-03   5.22568E+01
+   1    12   2        2.44135E-02   5.22711E+01
+   1    12   3       -8.10799E-03   5.22614E+01
+   1    12   4        2.38186E-02   5.22695E+01
+   1    12   5       -8.07613E-03   5.22615E+01
+   1    12   6        2.38288E-02   5.22695E+01
+   1    12   7       -8.07485E-03   5.22615E+01
+
+   1    11         Iterations   :   7
+   1    11         Next Step    :  -1.12200E+00
+   1    11 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    12   0        7.91275E-03   5.11481E+01
+   1    12   1       -5.80079E-03   5.11423E+01
+   1    12   2        1.27801E-02   5.11545E+01
+   1    12   3       -5.45985E-03   5.11460E+01
+   1    12   4        1.25225E-02   5.11527E+01
+   1    12   5       -5.45531E-03   5.11461E+01
+   1    12   6        1.25262E-02   5.11527E+01
+   1    12   7       -5.45525E-03   5.11461E+01
+
+   1    11         Iterations   :   7
+   1    11         Next Step    :  -5.61000E-01
+   1    11 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    12   0        2.87510E-03   5.05900E+01
+   1    12   1       -4.19799E-03   5.05862E+01
+   1    12   2        6.64494E-03   5.05957E+01
+   1    12   3       -3.96701E-03   5.05893E+01
+   1    12   4        6.53761E-03   5.05942E+01
+   1    12   5       -3.96759E-03   5.05894E+01
+   1    12   6        6.53876E-03   5.05942E+01
+   1    12   7       -3.96758E-03   5.05894E+01
+
+   1    11         Iterations   :   7
+   1    11         Next Step    :  -2.80500E-01
+   1    11 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    12   0        3.56272E-04   5.03110E+01
+   1    12   1       -3.27086E-03   5.03087E+01
+
+
+   1    12         Eigenvalues  :   Stable:  18
+   1    12         Eigenvalue  1:   1.94063E+02   0.00000E+00
+   1    12         Eigenvalue  2:  -3.31306E-04   0.00000E+00
+   1    12         Eigenvalue  3:  -2.31756E-02   0.00000E+00
+   1    12         Eigenvalue  4:  -2.66248E-02   0.00000E+00
+   1    12         Eigenvalue  5:  -2.68571E-02   0.00000E+00
+   1    12         Eigenvalue  6:  -8.91537E-02   0.00000E+00
+   1    12         Eigenvalue  7:  -4.84880E-01   0.00000E+00
+   1    12         Eigenvalue  8:  -8.41632E-01   0.00000E+00
+   1    12         Eigenvalue  9:  -1.80363E+00   0.00000E+00
+   1    12         Eigenvalue 10:  -2.05226E+00   0.00000E+00
+   1    12         Eigenvalue 11:  -2.28092E+00   0.00000E+00
+   1    12         Eigenvalue 12:  -3.75144E+00   0.00000E+00
+   1    12         Eigenvalue 13:  -5.91487E+00   0.00000E+00
+   1    12         Eigenvalue 14:  -5.92428E+00   0.00000E+00
+   1    12         Eigenvalue 15:  -6.71635E+00   0.00000E+00
+   1    12         Eigenvalue 16:  -2.24777E+01   0.00000E+00
+   1    12         Eigenvalue 17:  -2.30113E+01   0.00000E+00
+   1    12         Eigenvalue 18:  -2.35196E+01   0.00000E+00
+   1    12         Eigenvalue 19:  -2.38031E+01   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1    12       23  -3.27086E-03   5.03087E+01   1.03293E+00   9.87581E-01   9.52086E-01   9.72049E-01   1.71961E+00   1.34529E+01   1.36245E+01   1.35503E+01   1.36923E+01   2.11588E+01   2.11109E+01   2.11548E+01   2.11076E+01   1.10782E-03   7.97877E-04   1.05922E-03   7.59788E-04   8.67181E-05   3.52170E-04
+
+   1    11         Iterations   :   1
+   1    11         Next Step    :  -5.61000E-01
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -5.48747E-03   5.08623E+01
+   1    13   1        9.98746E-03   5.08788E+01
+   1    13   2       -4.74522E-03   5.08697E+01
+   1    13   3        9.54543E-03   5.08727E+01
+   1    13   4       -4.74369E-03   5.08698E+01
+   1    13   5        9.55165E-03   5.08727E+01
+   1    13   6       -4.74363E-03   5.08698E+01
+   1    13   7        9.55159E-03   5.08727E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.80500E-01
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -4.37916E-03   5.05855E+01
+   1    13   1        6.73515E-03   5.05981E+01
+   1    13   2       -3.97845E-03   5.05929E+01
+   1    13   3        6.52448E-03   5.05928E+01
+   1    13   4       -3.98149E-03   5.05930E+01
+   1    13   5        6.52746E-03   5.05929E+01
+   1    13   6       -3.98144E-03   5.05930E+01
+   1    13   7        6.52743E-03   5.05929E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.40250E-01
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.82501E-03   5.04471E+01
+   1    13   1        5.13038E-03   5.04577E+01
+   1    13   2       -3.57951E-03   5.04565E+01
+   1    13   3        4.98993E-03   5.04522E+01
+   1    13   4       -3.58400E-03   5.04569E+01
+   1    13   5        4.99259E-03   5.04523E+01
+   1    13   6       -3.58391E-03   5.04569E+01
+   1    13   7        4.99253E-03   5.04523E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -7.01250E-02
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.54793E-03   5.03779E+01
+   1    13   1        4.33344E-03   5.03875E+01
+   1    13   2       -3.38674E-03   5.03922E+01
+   1    13   3        4.21542E-03   5.03814E+01
+   1    13   4       -3.39494E-03   5.03935E+01
+   1    13   5        4.22133E-03   5.03818E+01
+   1    13   6       -3.39434E-03   5.03934E+01
+   1    13   7        4.22090E-03   5.03818E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -3.50625E-02
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.40940E-03   5.03433E+01
+   1    13   1        3.93635E-03   5.03524E+01
+   1    13   2       -3.31610E-03   5.03676E+01
+   1    13   3        3.85779E-03   5.03485E+01
+   1    13   4       -3.32850E-03   5.03703E+01
+   1    13   5        3.87400E-03   5.03499E+01
+   1    13   6       -3.32397E-03   5.03693E+01
+   1    13   7        3.86816E-03   5.03494E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.75313E-02
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.34013E-03   5.03260E+01
+   1    13   1        3.73814E-03   5.03349E+01
+   1    13   2       -3.33384E-03   5.03696E+01
+   1    13   3        3.79421E-03   5.03423E+01
+   1    13   4       -3.29274E-03   5.03597E+01
+   1    13   5        3.72499E-03   5.03363E+01
+   1    13   6       -3.32356E-03   5.03671E+01
+   1    13   7        3.77720E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -8.76563E-03
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.30549E-03   5.03174E+01
+   1    13   1        3.63913E-03   5.03261E+01
+   1    13   2       -3.44183E-03   5.03973E+01
+   1    13   3        3.95945E-03   5.03564E+01
+   1    13   4       -3.25517E-03   5.03517E+01
+   1    13   5        3.63344E-03   5.03283E+01
+   1    13   6       -3.39108E-03   5.03840E+01
+   1    13   7        3.87311E-03   5.03489E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -4.38281E-03
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.28818E-03   5.03131E+01
+   1    13   1        3.58964E-03   5.03217E+01
+   1    13   2       -3.66706E-03   5.04571E+01
+   1    13   3        4.33038E-03   5.03882E+01
+   1    13   4       -3.26238E-03   5.03586E+01
+   1    13   5        3.66741E-03   5.03316E+01
+   1    13   6       -3.33501E-03   5.03694E+01
+   1    13   7        3.76916E-03   5.03399E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.19141E-03
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27952E-03   5.03109E+01
+   1    13   1        3.56490E-03   5.03195E+01
+   1    13   2       -4.04084E-03   5.05571E+01
+   1    13   3        4.94215E-03   5.04399E+01
+   1    13   4       -3.31088E-03   5.03799E+01
+   1    13   5        3.80194E-03   5.03440E+01
+   1    13   6       -3.26724E-03   5.03531E+01
+   1    13   7        3.64115E-03   5.03288E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.09570E-03
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27519E-03   5.03098E+01
+   1    13   1        3.55254E-03   5.03184E+01
+   1    13   2       -4.55492E-03   5.06949E+01
+   1    13   3        5.79073E-03   5.05103E+01
+   1    13   4       -3.38904E-03   5.04128E+01
+   1    13   5        3.99660E-03   5.03619E+01
+   1    13   6       -3.25084E-03   5.03514E+01
+   1    13   7        3.61902E-03   5.03270E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -5.47852E-04
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27302E-03   5.03093E+01
+   1    13   1        3.54635E-03   5.03178E+01
+   1    13   2       -5.12369E-03   5.08474E+01
+   1    13   3        6.74605E-03   5.05879E+01
+   1    13   4       -3.47772E-03   5.04505E+01
+   1    13   5        4.20967E-03   5.03815E+01
+   1    13   6       -3.25775E-03   5.03563E+01
+   1    13   7        3.65048E-03   5.03300E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.73926E-04
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27194E-03   5.03090E+01
+   1    13   1        3.54326E-03   5.03176E+01
+   1    13   2       -5.62305E-03   5.09814E+01
+   1    13   3        7.60040E-03   5.06560E+01
+   1    13   4       -3.55539E-03   5.04839E+01
+   1    13   5        4.39472E-03   5.03986E+01
+   1    13   6       -3.27073E-03   5.03625E+01
+   1    13   7        3.69160E-03   5.03338E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.36963E-04
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27140E-03   5.03089E+01
+   1    13   1        3.54172E-03   5.03174E+01
+   1    13   2       -5.98050E-03   5.10773E+01
+   1    13   3        8.22107E-03   5.07047E+01
+   1    13   4       -3.61067E-03   5.05079E+01
+   1    13   5        4.52627E-03   5.04109E+01
+   1    13   6       -3.28184E-03   5.03674E+01
+   1    13   7        3.72372E-03   5.03367E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -6.84815E-05
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27113E-03   5.03088E+01
+   1    13   1        3.54094E-03   5.03174E+01
+   1    13   2       -6.20078E-03   5.11365E+01
+   1    13   3        8.60733E-03   5.07347E+01
+   1    13   4       -3.64461E-03   5.05228E+01
+   1    13   5        4.60700E-03   5.04184E+01
+   1    13   6       -3.28915E-03   5.03706E+01
+   1    13   7        3.74404E-03   5.03386E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -3.42407E-05
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27099E-03   5.03088E+01
+   1    13   1        3.54056E-03   5.03173E+01
+   1    13   2       -6.32423E-03   5.11696E+01
+   1    13   3        8.82505E-03   5.07515E+01
+   1    13   4       -3.66360E-03   5.05311E+01
+   1    13   5        4.65214E-03   5.04226E+01
+   1    13   6       -3.29336E-03   5.03724E+01
+   1    13   7        3.75553E-03   5.03397E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.71204E-05
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27093E-03   5.03088E+01
+   1    13   1        3.54036E-03   5.03173E+01
+   1    13   2       -6.38976E-03   5.11872E+01
+   1    13   3        8.94099E-03   5.07604E+01
+   1    13   4       -3.67367E-03   5.05355E+01
+   1    13   5        4.67608E-03   5.04248E+01
+   1    13   6       -3.29563E-03   5.03733E+01
+   1    13   7        3.76165E-03   5.03402E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -8.56018E-06
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27089E-03   5.03088E+01
+   1    13   1        3.54027E-03   5.03173E+01
+   1    13   2       -6.42355E-03   5.11962E+01
+   1    13   3        9.00088E-03   5.07650E+01
+   1    13   4       -3.67886E-03   5.05378E+01
+   1    13   5        4.68841E-03   5.04260E+01
+   1    13   6       -3.29680E-03   5.03738E+01
+   1    13   7        3.76482E-03   5.03405E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -4.28009E-06
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27088E-03   5.03088E+01
+   1    13   1        3.54022E-03   5.03173E+01
+   1    13   2       -6.44070E-03   5.12008E+01
+   1    13   3        9.03130E-03   5.07673E+01
+   1    13   4       -3.68150E-03   5.05389E+01
+   1    13   5        4.69467E-03   5.04266E+01
+   1    13   6       -3.29740E-03   5.03741E+01
+   1    13   7        3.76642E-03   5.03407E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.14005E-06
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27087E-03   5.03088E+01
+   1    13   1        3.54019E-03   5.03173E+01
+   1    13   2       -6.44935E-03   5.12032E+01
+   1    13   3        9.04665E-03   5.07685E+01
+   1    13   4       -3.68282E-03   5.05395E+01
+   1    13   5        4.69783E-03   5.04268E+01
+   1    13   6       -3.29770E-03   5.03742E+01
+   1    13   7        3.76724E-03   5.03407E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.07002E-06
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54018E-03   5.03173E+01
+   1    13   2       -6.45369E-03   5.12043E+01
+   1    13   3        9.05435E-03   5.07691E+01
+   1    13   4       -3.68349E-03   5.05398E+01
+   1    13   5        4.69941E-03   5.04270E+01
+   1    13   6       -3.29785E-03   5.03743E+01
+   1    13   7        3.76764E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -5.35011E-07
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54018E-03   5.03173E+01
+   1    13   2       -6.45587E-03   5.12049E+01
+   1    13   3        9.05821E-03   5.07694E+01
+   1    13   4       -3.68383E-03   5.05400E+01
+   1    13   5        4.70020E-03   5.04271E+01
+   1    13   6       -3.29793E-03   5.03743E+01
+   1    13   7        3.76785E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.67506E-07
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45696E-03   5.12052E+01
+   1    13   3        9.06014E-03   5.07695E+01
+   1    13   4       -3.68399E-03   5.05400E+01
+   1    13   5        4.70060E-03   5.04271E+01
+   1    13   6       -3.29797E-03   5.03743E+01
+   1    13   7        3.76795E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.33753E-07
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45750E-03   5.12054E+01
+   1    13   3        9.06110E-03   5.07696E+01
+   1    13   4       -3.68408E-03   5.05401E+01
+   1    13   5        4.70080E-03   5.04271E+01
+   1    13   6       -3.29799E-03   5.03744E+01
+   1    13   7        3.76800E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -6.68764E-08
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45778E-03   5.12054E+01
+   1    13   3        9.06161E-03   5.07696E+01
+   1    13   4       -3.68412E-03   5.05401E+01
+   1    13   5        4.70090E-03   5.04271E+01
+   1    13   6       -3.29800E-03   5.03744E+01
+   1    13   7        3.76803E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -3.34382E-08
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45791E-03   5.12055E+01
+   1    13   3        9.06184E-03   5.07697E+01
+   1    13   4       -3.68414E-03   5.05401E+01
+   1    13   5        4.70095E-03   5.04271E+01
+   1    13   6       -3.29800E-03   5.03744E+01
+   1    13   7        3.76804E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.67191E-08
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45797E-03   5.12055E+01
+   1    13   3        9.06195E-03   5.07697E+01
+   1    13   4       -3.68415E-03   5.05401E+01
+   1    13   5        4.70097E-03   5.04271E+01
+   1    13   6       -3.29800E-03   5.03744E+01
+   1    13   7        3.76804E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -8.35955E-09
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45801E-03   5.12055E+01
+   1    13   3        9.06201E-03   5.07697E+01
+   1    13   4       -3.68415E-03   5.05401E+01
+   1    13   5        4.70098E-03   5.04271E+01
+   1    13   6       -3.29800E-03   5.03744E+01
+   1    13   7        3.76805E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -4.17978E-09
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45809E-03   5.12055E+01
+   1    13   3        9.06215E-03   5.07697E+01
+   1    13   4       -3.68417E-03   5.05401E+01
+   1    13   5        4.70101E-03   5.04271E+01
+   1    13   6       -3.29801E-03   5.03744E+01
+   1    13   7        3.76805E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.08989E-09
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45791E-03   5.12055E+01
+   1    13   3        9.06184E-03   5.07697E+01
+   1    13   4       -3.68414E-03   5.05401E+01
+   1    13   5        4.70095E-03   5.04271E+01
+   1    13   6       -3.29800E-03   5.03744E+01
+   1    13   7        3.76804E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.04494E-09
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45808E-03   5.12055E+01
+   1    13   3        9.06215E-03   5.07697E+01
+   1    13   4       -3.68417E-03   5.05401E+01
+   1    13   5        4.70101E-03   5.04271E+01
+   1    13   6       -3.29801E-03   5.03744E+01
+   1    13   7        3.76805E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -5.22472E-10
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45780E-03   5.12054E+01
+   1    13   3        9.06164E-03   5.07697E+01
+   1    13   4       -3.68412E-03   5.05401E+01
+   1    13   5        4.70091E-03   5.04271E+01
+   1    13   6       -3.29800E-03   5.03744E+01
+   1    13   7        3.76803E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.61236E-10
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45830E-03   5.12056E+01
+   1    13   3        9.06253E-03   5.07697E+01
+   1    13   4       -3.68420E-03   5.05401E+01
+   1    13   5        4.70109E-03   5.04272E+01
+   1    13   6       -3.29802E-03   5.03744E+01
+   1    13   7        3.76807E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.30618E-10
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45802E-03   5.12055E+01
+   1    13   3        9.06203E-03   5.07697E+01
+   1    13   4       -3.68416E-03   5.05401E+01
+   1    13   5        4.70099E-03   5.04271E+01
+   1    13   6       -3.29801E-03   5.03744E+01
+   1    13   7        3.76805E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -6.53090E-11
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54017E-03   5.03173E+01
+   1    13   2       -6.45956E-03   5.12059E+01
+   1    13   3        9.06477E-03   5.07699E+01
+   1    13   4       -3.68439E-03   5.05402E+01
+   1    13   5        4.70155E-03   5.04272E+01
+   1    13   6       -3.29806E-03   5.03744E+01
+   1    13   7        3.76819E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -3.26545E-11
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54016E-03   5.03173E+01
+   1    13   2       -6.46219E-03   5.12066E+01
+   1    13   3        9.06944E-03   5.07702E+01
+   1    13   4       -3.68480E-03   5.05404E+01
+   1    13   5        4.70251E-03   5.04273E+01
+   1    13   6       -3.29815E-03   5.03744E+01
+   1    13   7        3.76844E-03   5.03409E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.63273E-11
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54018E-03   5.03173E+01
+   1    13   2       -6.45318E-03   5.12042E+01
+   1    13   3        9.05345E-03   5.07690E+01
+   1    13   4       -3.68341E-03   5.05398E+01
+   1    13   5        4.69922E-03   5.04270E+01
+   1    13   6       -3.29784E-03   5.03743E+01
+   1    13   7        3.76759E-03   5.03408E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -8.16363E-12
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54014E-03   5.03173E+01
+   1    13   2       -6.47166E-03   5.12092E+01
+   1    13   3        9.08625E-03   5.07715E+01
+   1    13   4       -3.68625E-03   5.05410E+01
+   1    13   5        4.70596E-03   5.04276E+01
+   1    13   6       -3.29848E-03   5.03746E+01
+   1    13   7        3.76933E-03   5.03409E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -4.08181E-12
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54030E-03   5.03173E+01
+   1    13   2       -6.41095E-03   5.11929E+01
+   1    13   3        8.97854E-03   5.07633E+01
+   1    13   4       -3.67693E-03   5.05369E+01
+   1    13   5        4.68381E-03   5.04255E+01
+   1    13   6       -3.29636E-03   5.03737E+01
+   1    13   7        3.76364E-03   5.03404E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -2.04091E-12
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54022E-03   5.03173E+01
+   1    13   2       -6.44096E-03   5.12009E+01
+   1    13   3        9.03175E-03   5.07674E+01
+   1    13   4       -3.68154E-03   5.05389E+01
+   1    13   5        4.69476E-03   5.04266E+01
+   1    13   6       -3.29741E-03   5.03741E+01
+   1    13   7        3.76645E-03   5.03407E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -1.02045E-12
+   1    12 NOTE:Retrying step
+===============================================
+
+  BR    PT  IT         PAR           L2-NORM
+   1    13   0       -3.27086E-03   5.03087E+01
+   1    13   1        3.54029E-03   5.03173E+01
+   1    13   2       -6.41428E-03   5.11938E+01
+   1    13   3        8.98445E-03   5.07637E+01
+   1    13   4       -3.67744E-03   5.05371E+01
+   1    13   5        4.68503E-03   5.04257E+01
+   1    13   6       -3.29648E-03   5.03737E+01
+   1    13   7        3.76395E-03   5.03404E+01
+
+   1    12         Iterations   :   7
+   1    12         Next Step    :  -5.10227E-13
+   1    12 NOTE:No convergence with minimum step size
+
+   1    13         Eigenvalues  :   Stable:  13
+   1    13         Eigenvalue  1:   2.06953E+04   0.00000E+00
+   1    13         Eigenvalue  2:   1.98715E+03   0.00000E+00
+   1    13         Eigenvalue  3:   1.38642E+02   0.00000E+00
+   1    13         Eigenvalue  4:   1.33745E+00   0.00000E+00
+   1    13         Eigenvalue  5:   1.76711E-01   0.00000E+00
+   1    13         Eigenvalue  6:   3.55591E-02   0.00000E+00
+   1    13         Eigenvalue  7:  -8.15356E-03   0.00000E+00
+   1    13         Eigenvalue  8:  -6.54213E-02   0.00000E+00
+   1    13         Eigenvalue  9:  -2.48485E+00  -2.51225E+00
+   1    13         Eigenvalue 10:  -2.48485E+00   2.51225E+00
+   1    13         Eigenvalue 11:  -5.83028E+00   0.00000E+00
+   1    13         Eigenvalue 12:  -1.36571E+01   5.46546E+01
+   1    13         Eigenvalue 13:  -1.36571E+01  -5.46546E+01
+   1    13         Eigenvalue 14:  -1.51480E+01  -9.09879E+00
+   1    13         Eigenvalue 15:  -1.51480E+01   9.09879E+00
+   1    13         Eigenvalue 16:  -9.38369E+01   0.00000E+00
+   1    13         Eigenvalue 17:  -1.18653E+02   0.00000E+00
+   1    13         Eigenvalue 18:  -3.47387E+02   0.00000E+00
+   1    13         Eigenvalue 19:  -5.32346E+10   0.00000E+00
+
+  BR    PT  TY  LAB    PAR(1)        L2-NORM         U(1)          U(2)          U(3)          U(4)          U(5)          U(6)          U(7)          U(8)          U(9)          U(10)         U(11)         U(12)         U(13)         U(14)         U(15)         U(16)         U(17)         U(18)         U(19)    
+   1    13  MX   24  -3.27086E-03   5.03087E+01   1.03293E+00   9.87581E-01   9.52086E-01   9.72049E-01   1.71961E+00   1.34529E+01   1.36245E+01   1.35503E+01   1.36923E+01   2.11588E+01   2.11109E+01   2.11548E+01   2.11076E+01   1.10782E-03   7.97877E-04   1.05922E-03   7.59788E-04   8.67181E-05   3.52170E-04
+
+   1    12         Iterations   :   0
+   1    12         Next Step    :  -1.02045E-12
+===============================================
+
+ Total Time    0.303E-01
